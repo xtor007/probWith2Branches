@@ -1,3 +1,3 @@
 # probWith2Branches
-Ahhahahahahahahahahahahahahahahaha
+Чорт, поверни гроші за пробне
 cout<<"лиза закотей саморазвитие"
