@@ -15,7 +15,7 @@ for i in range(10**(x-1), (10**x)+1):
     if temp==i and L<n:
         for j in range(2,i//2+1):
             if i%j==0:
-                k=True
+                k=False
                 break
         if k==False:
             L+=1
