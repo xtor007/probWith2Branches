@@ -17,6 +17,8 @@ int AnatoliyTop (int a) {
     }
 }
 
+
+
 int main(int argc, const char * argv[]) {
     cout << "Yarik loh";
     cout << "Vvedite chyslo";
