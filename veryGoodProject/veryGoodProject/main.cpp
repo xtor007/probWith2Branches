@@ -7,9 +7,21 @@
 //
 
 #include <iostream>
+using namespace std;
+
+int AnatoliyTop (int a) {
+    if (a == 6) {
+        return 4;
+    } else {
+        return a;
+    }
+}
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    cout << "Yarik loh";
+    cout << "Vvedite chyslo";
+    int k;
+    cin >> k;
+    cout << AnatoliyTop(k);
     return 0;
 }
