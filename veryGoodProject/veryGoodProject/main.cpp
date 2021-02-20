@@ -17,13 +17,16 @@ int AnatoliyTop (int a) {
     }
 }
 
-
+char AnatoliyHuy(){
+    char tolya = rand()%100;
+    return tolya;
+}
 
 int main(int argc, const char * argv[]) {
     cout << "Yarik loh";
-    cout << "Vvedite chyslo";
+    cout << "Vvedite chyslo\n";
     int k;
     cin >> k;
-    cout << AnatoliyTop(k);
+    cout << endl<<AnatoliyHuy();
     return 0;
 }
