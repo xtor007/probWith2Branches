@@ -21,4 +21,4 @@ for i in range(10**(x-1), (10**x)+1):
             L+=1
             print("%d) Number %d"%(L,i))
 if L==0:
-    print("Простих чисел-паліндромів не знайдено")
+    print("Простих чисел-паліндромів не знайдено")#fnvkejrbvkejgkegnwkrgber
